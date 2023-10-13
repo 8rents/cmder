@@ -1,0 +1,5 @@
+# Cmder Git Ignore File
+
+# Vendor Directory is home to only 3rd party libraries and software all customizations must be moved out
+vendor/
+config/fonts/FiraCode/
