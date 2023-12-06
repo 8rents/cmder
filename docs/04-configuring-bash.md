@@ -2,7 +2,7 @@
 
 ---
 
-**previous:** [Settings](03-settings.md)
+**previous:** [Cmder Settings](03-settings.md)
 
 # Configuring the bash shell in Cmder
 
@@ -18,5 +18,8 @@
 
 - [Set up cmder to use msysgit / bash by default - a gist by nickautomatic](https://gist.github.com/nickautomatic/02ccb76292f7f8d9767e)
 - [Conemu Tasks Documentation](https://conemu.github.io/en/Tasks.html)
+
+**Next:** [Installing starship for both Bash & PowerShell](05-installing-starship-for-powershell-and-bash.md)
+
 ---
 w/🤍 **2023 [Brenton Holiday](https://allmylinks.com/8rents)**

@@ -6,11 +6,11 @@
 
 ## Usage
 
-This folder is used to style and configure Cmder. Things like:
+This folder is used to configure Cmder. Things like:
 
 - Fonts
 - Images & Icons
-- Cmder settings export (either `settings.xml` or `ConEmu.xml`)
+- Cmder settings export *(either `settings.xml` or `ConEmu.xml`)*
 
 ---
 
@@ -18,10 +18,10 @@ This folder is used to style and configure Cmder. Things like:
 
 The following should be moved out of `config`:
 
-- **Default Profiles** - These should be moved to `%ROOT%\shells\powershell\profiles\defaults\powershell.ps1` . 
+- **Default Profiles** - These should be moved to `%ROOT%\shells\powershell\profiles\default.ps1` . 
 - **History** - Should be moved to the `%ROOT%\shells\powershell\logs\history.log`
 - **Plugins** - Move to `%ROOT%\shells\powershell\plugins\`. This includes completions.
-- **CLink** - Goes into CMD Plugins folder. Log should b served out of `cmd\logs\clink.log`
+- **CLink** - Goes into CMD Plugins folder. Log should be served out of `cmd\logs\clink.log`
 
 ---
 

@@ -28,7 +28,7 @@ Cmder\
 ├───opt
 │	# Optional packages directory. Will not be injected in your PATH by default
 └───vendor
-	# Libraries used to make Cmder work. You don't need to directory edit this directory. If making a git repository make sure to ignore vendor directories
+	# Libraries used to make Cmder work. You don't need to directory edit this directory.
 ```
 
 *While this is a cute directory structure, it’s a mess and illogical. Let’s Spruce it up a bit…*
@@ -38,14 +38,6 @@ Cmder\
 ## Making a Git Repository
 
 Since we’re going to create a whole new directory structure, let’s first create a git repository, exclude unneeded folders and then push it to GitHub for backup.
-
-### Excluding the `vendor` folder
-
-Since the `vendor` folder is used to house 3rd party libraries and plugins, we don’t need to actually back it up.
-
-In your `.gitignore` or your GitHub Desktop client ignore the `vendor` folder.
-
-Then commit and push the repo up to GitHub.
 
 ## Redesigning Cmder Directory Structure
 
