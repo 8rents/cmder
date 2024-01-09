@@ -7,7 +7,7 @@
 ## List of Active Shells
 
 - **`bash`** - located in `%ROOT%\Shells\bash`
-- **`cmd`** - located in `%ROOT`plugins%\Shells\cmd`
+- **`cmd`** - located in `%ROOT%\Shells\cmd`
 - **`node`**- located in `%ROOT%\Shells\node`
 - **`powershell`** - located in `%ROOT%\Shells\powershell`
 - **`python`** - located in `%ROOT%\Shells\python`
