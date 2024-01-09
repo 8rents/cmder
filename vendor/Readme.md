@@ -8,6 +8,10 @@
 
 Say all those libraries you download through your package manager. Those are maintained by someone else. You just download and use them.
 
+### *This unfortunately is not what Cmder means when it creates a `vendor` directory*. 
+
+It means a shit load of required files that do have to be maintained.
+
 ---
 
 **🤍 2023 [Brenton Holiday](https://brenton.holiday)**

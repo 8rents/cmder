@@ -4,7 +4,7 @@
 
 **previous:** [Cmder Settings](03-settings.md)
 
-# Configuring the bash shell in Cmder
+# Configuring the bash shell in Cmder with *msys2*
 
 *Part 4*
 
@@ -14,12 +14,16 @@
 
 ## Which bash?
 
+There are a couple of choices when it comes to running bash on Windows. 
+
+Here's a brief overview of [what is MSYS2](https://www.msys2.org/docs/what-is-msys2/)
+
 ## References
 
 - [Set up cmder to use msysgit / bash by default - a gist by nickautomatic](https://gist.github.com/nickautomatic/02ccb76292f7f8d9767e)
 - [Conemu Tasks Documentation](https://conemu.github.io/en/Tasks.html)
 
-**Next:** [Installing starship for both Bash & PowerShell](05-installing-starship-for-powershell-and-bash.md)
+**Next:** [Using Pacman Package Manager](05-pacman-package-manager.md)
 
 ---
-w/🤍 **2023 [Brenton Holiday](https://allmylinks.com/8rents)**
+**🤍 2023 [Brenton Holiday](https://brenton.holiday)**

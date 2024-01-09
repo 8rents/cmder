@@ -10,12 +10,12 @@
 
 ---
 
-## Default Directory Structure
+## Cmder Directory Structure
 
-The default directory structure and logic is as follows:
+**The default directory structure and logic is as follows:**
 
 ```bash
-Cmder\ 
+Cmder
 ├───cmder.exe 
 ├───bin
 │	# Place your binaries here. These will be injected into your PATH.
@@ -31,7 +31,7 @@ Cmder\
 	# Libraries used to make Cmder work. You don't need to directory edit this directory.
 ```
 
-*While this is a cute directory structure, it’s a mess and illogical. Let’s Spruce it up a bit…*
+*While this is a cute layout, it’s a mess and illogical. Let’s Spruce it up a bit…*
 
 ---
 
@@ -41,9 +41,28 @@ Since we’re going to create a whole new directory structure, let’s first cre
 
 ## Redesigning Cmder Directory Structure
 
- Now that we have a back up
+**Let's move things around a little bit:**
 
-## 
+```bash
+Cmder
+├───config          
+│   ├───images      
+│   │   └───icons   
+│   └───profile.d   
+├───docs   # documents         
+├───shells     
+│   ├───cmd         
+│   │   ├───logs    
+│   │   ├───plugins 
+│   │   └───profiles
+│   └───powershell  
+│       ├───logs    
+│       ├───plugins 
+│       └───profiles
+└───vendor          
+```
+
+There's still a lot of stuff that we will be using in the `vendor` directory. I'll make a goal to clean this out and rearrange this later.
 
 ---
 

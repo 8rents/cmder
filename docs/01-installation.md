@@ -20,14 +20,14 @@ First Download a copy of Cmder mini.
 
 Move the downloaded zip to a location where it will stay and unzip it. 
 
-I’m going to install it on my USB stick and also in Dropbox.
+I’m going to install it on my USB stick and then on Dropbox.
 
 ```bash
 # USB Cmder Path
-"D:\Repo\Settings\OS\Windows\Apps\Active\Cmder"
+"D:\Apps\Installed\Cmder\Cmder.exe"
 
-# Dropbox File
-"~\Dropbox\Repo\Settings\OS\Windows\Apps\Active\Cmder"
+# Dropbox install Path
+"Dropbox:\"
 ```
 
 ---

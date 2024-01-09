@@ -6,6 +6,8 @@
 
 > ***My Terminal Emulator of choice on Windows computers without admin / Limited accounts.***
 
+![cmder screenshot](https://raw.githubusercontent.com/8rents/_/i/cmder-screenshot.png)
+
 ---
 
 ## Table of Contents
