@@ -6,7 +6,7 @@
 
 ## List of Active Shells
 
-- **`bash`** - located in `%ROOT%\Shells\bash`
+- **[`bash`](bash/README.md)** - located in `%ROOT%\Shells\bash`
 - **`cmd`** - located in `%ROOT%\Shells\cmd`
 - **`node`**- located in `%ROOT%\Shells\node`
 - **`powershell`** - located in `%ROOT%\Shells\powershell`
