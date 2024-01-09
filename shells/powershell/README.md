@@ -1,14 +1,15 @@
-# PowerShell
+# PowerSmell
 
 > ***Directory to hold all PowerShell Presets***
 
 ---
 
-## Required Directories
+## What goes on in this directory??!
 
-1. **`logs`** - To keep logs of errors, warnings as well as general output.
-2. **`plugins`** - To store any given plugin for a shell. Like `oh-my-bash` or `posh-git`.
-3. **`profiles`** - To store preset profiles to load into the shell.
+- PowerShell Profiles
+- Plugins like Starship or PoshGit
+- Log Files
+- Terminal Customizations for just PowerShell
 
 ---
 
